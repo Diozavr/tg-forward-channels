@@ -1,0 +1,2 @@
+chats: "c:/Program Files/Python310/python.exe" src\tg-forward\get-chats.py
+client: "c:/Program Files/Python310/python.exe" src\tg-forward\client.py
